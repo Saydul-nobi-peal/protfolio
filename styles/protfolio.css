@@ -18,6 +18,7 @@
     color: #FD6E0A;
 }
 
+/* share Style */
 .btn{
     background-color: #FD6E0A;
     border: none;
@@ -27,6 +28,11 @@
     font-weight: bold;
     color: white;
     cursor: pointer;
+}
+
+.about-header{
+    max-width: 827px;
+    text-align: center;
 }
 
 header{
@@ -94,3 +100,38 @@ nav .list a{
     max-width: 585px;
     vertical-align: middle;
 }
+
+#about{
+    padding-top: 130px;
+}
+#about .about-cont{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFF8F3;
+    padding: 131px 156px;
+}
+
+.about-header h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.about-header p{
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    color: #757575;
+}
+#about .about-cont .about-info{
+    display: flex;
+    justify-content: space-around;
+}
+ .about-info .info-card p{
+    font-size: 20px;
+    line-height: 30px;
+    color: #757575;
+ }
+ .about-info .info-card h4{
+    font-size: 20px;
+ }
