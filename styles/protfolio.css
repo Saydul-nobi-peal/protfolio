@@ -137,3 +137,53 @@ nav .list a{
  .about-info .info-card h4{
     font-size: 20px;
  }
+
+ /* skill section css */
+
+ #skill{
+    padding-top: 130px;
+ }
+
+ #skill .skill-papa{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+ }
+
+ .sec-head{
+    max-width: 827px;
+    text-align: center;
+    margin: 0 auto;
+ }
+ .sec-head h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+
+ }
+
+ #skill .skill-papa .skill-box{
+    display: flex;
+    gap: 24px;
+
+ }
+
+ .skill-box .skill-card{
+    padding: 30px;
+    box-shadow: 0 6px 50px 0 #00000048;
+    max-width: 267px;
+ }
+ .skill-card img{
+    max-width: 44px;
+    margin-bottom: 30px;
+ }
+ .skill-card h3{
+    font-size: 20px;
+    color: #181818;
+    margin-bottom: 20px;
+ }
+ .skill-card p{
+     font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+    
+ }
