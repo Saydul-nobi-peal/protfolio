@@ -187,3 +187,50 @@ nav .list a{
     line-height: 28px;
     
  }
+
+ /* resume er css */
+
+ #resume{
+    padding-top: 130px;
+ }
+
+ .section-heading{
+    max-width: 827px;
+    text-align: center;
+    margin: 0 auto;
+ }
+
+#resume .resume-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 113px auto 0;
+    display: flex;
+    gap: 24px;
+}
+
+.resume-container hr{
+    margin: 30px 0;
+}
+
+.resume-container .sectio-title{
+    color: #47474747;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.resume-card{
+    max-width: 511px;
+    margin-right: 47px; 
+}
+.resume-card .card-info{
+    font-size: 20px;
+    font-weight: 600;
+    color: #474747;
+    margin-bottom: 20px;
+}
+.resume-card .card-text{
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+   
+}
+
