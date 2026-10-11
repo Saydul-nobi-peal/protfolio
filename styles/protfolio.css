@@ -64,6 +64,7 @@ nav .list a{
     text-decoration: none;
 }
 
+
 #hero{
     /* border: 1px solid red; */
     margin: 47px 38px 0 230px;
@@ -100,6 +101,7 @@ nav .list a{
     max-width: 585px;
     vertical-align: middle;
 }
+
 
 #about{
     padding-top: 130px;
